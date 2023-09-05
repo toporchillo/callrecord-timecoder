@@ -1,0 +1,6 @@
+sampledata/*
+.idea
+
+log
+vendor
+ffmpeg
